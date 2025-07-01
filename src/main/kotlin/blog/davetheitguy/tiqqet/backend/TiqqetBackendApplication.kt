@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class TiqqetBackendApplication
 
 fun main(args: Array<String>) {
-	runApplication<TiqqetBackendApplication>(*args)
+    runApplication<TiqqetBackendApplication>(*args)
 }
