@@ -9,3 +9,4 @@ class TiqqetBackendApplication
 fun main(args: Array<String>) {
     runApplication<TiqqetBackendApplication>(*args)
 }
+
